@@ -4,7 +4,6 @@ import {
   BsInstagram,
   BsArrowLeftShort,
   BsArrowRightShort,
-  Bs1SquareFill,
 } from "react-icons/bs";
 
 import "./Gallery.css";
